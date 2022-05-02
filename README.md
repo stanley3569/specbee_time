@@ -50,3 +50,11 @@ Any service calls should be done using Dependency Injection.
 Any direct calls to services are not allowed.
 
 Your code must follow Drupal coding standards and DrupalPractice code standards.
+
+
+Admin Configuration form can be found here :
+	`/admin/config/specbee-time/settings`
+https://i.imgur.com/9mXK1Sz.png
+
+Block Displayed
+https://i.imgur.com/JfR8BGu.png
