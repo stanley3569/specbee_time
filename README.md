@@ -58,3 +58,10 @@ https://i.imgur.com/9mXK1Sz.png
 
 Block Displayed
 https://i.imgur.com/JfR8BGu.png
+
+
+PHPCS Command from outside the specbee_time module:
+	` phpcs --standard=Drupal --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md,yml ./specbee_time/`
+
+PHPCBF Command from outside the specbee_time module:
+	`phpcbf --standard=Drupal --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md,yml ./specbee_time/`
